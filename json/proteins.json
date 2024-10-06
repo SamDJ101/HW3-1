@@ -1,0 +1,13 @@
+{
+  "proteins": [
+    {
+      "id": "55b03042-5442-4d6f-9bcc-14052549c68d",
+      "name": "Example Protein 1"
+    },
+    {
+      "id": "295235f1-0dd2-4802-a0fe-b847dcda9581",
+      "name": "Example Protein 2"
+    }
+
+  ]
+}

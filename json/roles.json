@@ -1,0 +1,14 @@
+{
+    "roles": 
+    [
+    {
+    "id": "admin",
+    "permissions": ["read", "write", "delete"]
+    },
+    {
+    "id": "basic",
+    "permissions": ["read"]
+    }
+    ]
+}
+    
